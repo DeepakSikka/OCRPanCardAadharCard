@@ -1,0 +1,2 @@
+# OCRPanCardAadharCard
+optical character recognition
